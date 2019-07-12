@@ -61,6 +61,7 @@
 		3267594422D8CA9300C81260 = {
 			isa = PBXGroup;
 			children = (
+				3267597C22D8CAEA00C81260 /* Shared */,
 				3267594F22D8CA9300C81260 /* SwiftUIExamples */,
 				3267596922D8CAAA00C81260 /* AppStore */,
 				3267594E22D8CA9300C81260 /* Products */,
@@ -118,6 +119,13 @@
 				3267597322D8CAAB00C81260 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3267597C22D8CAEA00C81260 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Shared;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
