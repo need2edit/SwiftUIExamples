@@ -19,6 +19,7 @@
 		3267597122D8CAAB00C81260 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3267597022D8CAAB00C81260 /* Assets.xcassets */; };
 		3267597422D8CAAB00C81260 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3267597322D8CAAB00C81260 /* Preview Assets.xcassets */; };
 		3267597722D8CAAB00C81260 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3267597522D8CAAB00C81260 /* LaunchScreen.storyboard */; };
+		3267597F22D8CBFA00C81260 /* TodayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3267597E22D8CBFA00C81260 /* TodayView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		3267597622D8CAAB00C81260 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3267597822D8CAAB00C81260 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3267597D22D8CB5D00C81260 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		3267597E22D8CBFA00C81260 /* TodayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				3267596A22D8CAAA00C81260 /* AppDelegate.swift */,
 				3267596C22D8CAAA00C81260 /* SceneDelegate.swift */,
 				3267596E22D8CAAA00C81260 /* ContentView.swift */,
+				3267597E22D8CBFA00C81260 /* TodayView.swift */,
 				3267597022D8CAAB00C81260 /* Assets.xcassets */,
 				3267597522D8CAAB00C81260 /* LaunchScreen.storyboard */,
 				3267597822D8CAAB00C81260 /* Info.plist */,
@@ -244,6 +247,7 @@
 			files = (
 				3267596B22D8CAAA00C81260 /* AppDelegate.swift in Sources */,
 				3267596D22D8CAAA00C81260 /* SceneDelegate.swift in Sources */,
+				3267597F22D8CBFA00C81260 /* TodayView.swift in Sources */,
 				3267596F22D8CAAA00C81260 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
