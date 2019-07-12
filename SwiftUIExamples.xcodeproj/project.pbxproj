@@ -38,6 +38,7 @@
 		3267597322D8CAAB00C81260 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3267597622D8CAAB00C81260 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3267597822D8CAAB00C81260 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3267597D22D8CB5D00C81260 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 		3267594422D8CA9300C81260 = {
 			isa = PBXGroup;
 			children = (
+				3267597D22D8CB5D00C81260 /* README.md */,
 				3267597C22D8CAEA00C81260 /* Shared */,
 				3267594F22D8CA9300C81260 /* SwiftUIExamples */,
 				3267596922D8CAAA00C81260 /* AppStore */,
